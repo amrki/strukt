@@ -1,0 +1,7 @@
+sve zabilljeske su mi se izbrisale
+mora san neke djelove napisat iznova nije podrzano
+uspjesno mi se bildalo
+uspjesno mi se debugiralo
+
+znan da mi nismo bajno ovo prinili ali ja mislin da je ovo do razlike izmedu dvi verzije visual studija 
+proba san nasa imena unit i dobro mi je islo
